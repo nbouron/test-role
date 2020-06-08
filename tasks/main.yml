@@ -1,0 +1,7 @@
+---
+# tasks file for test-role
+
+- name: Display msg
+  debug:
+    msg: |
+      Module debug pour l'afficage du role demo-role
